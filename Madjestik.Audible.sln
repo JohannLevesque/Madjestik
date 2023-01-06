@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Madjestik.Audible", "Madjestik.Audible\Madjestik.Audible.csproj", "{4979249B-5777-4268-93E2-099C092A5509}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{120C325A-0F66-42A7-AF03-81EBD94BE8A4}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Madjestik.Audible.Tests.Unit", "Madjestik.Audible.Tests.Unit\Madjestik.Audible.Tests.Unit.csproj", "{366AE766-281B-45B6-AE02-17033D121151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Madjestik.Core", "Madjestik.Core\Madjestik.Core.csproj", "{4813A3BF-E823-4397-9AB2-37094541E59C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Madjestik.Audio", "Madjestik.Audio\Madjestik.Audio.csproj", "{C948F266-A69F-4CDA-8DF0-7118E2A729FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4979249B-5777-4268-93E2-099C092A5509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4979249B-5777-4268-93E2-099C092A5509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4979249B-5777-4268-93E2-099C092A5509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4979249B-5777-4268-93E2-099C092A5509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{366AE766-281B-45B6-AE02-17033D121151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366AE766-281B-45B6-AE02-17033D121151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366AE766-281B-45B6-AE02-17033D121151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366AE766-281B-45B6-AE02-17033D121151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4813A3BF-E823-4397-9AB2-37094541E59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4813A3BF-E823-4397-9AB2-37094541E59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4813A3BF-E823-4397-9AB2-37094541E59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4813A3BF-E823-4397-9AB2-37094541E59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C948F266-A69F-4CDA-8DF0-7118E2A729FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C948F266-A69F-4CDA-8DF0-7118E2A729FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C948F266-A69F-4CDA-8DF0-7118E2A729FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C948F266-A69F-4CDA-8DF0-7118E2A729FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B648186-5DC4-41A6-91CA-08F5AB23B784}
+	EndGlobalSection
+EndGlobal

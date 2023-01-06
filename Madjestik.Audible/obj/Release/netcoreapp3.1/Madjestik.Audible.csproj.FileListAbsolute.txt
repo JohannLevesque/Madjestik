@@ -1,0 +1,16 @@
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\bin\Release\netcoreapp3.1\Madjestik.Audible.exe
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\bin\Release\netcoreapp3.1\Madjestik.Audible.deps.json
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\bin\Release\netcoreapp3.1\Madjestik.Audible.runtimeconfig.json
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\bin\Release\netcoreapp3.1\Madjestik.Audible.runtimeconfig.dev.json
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\bin\Release\netcoreapp3.1\Madjestik.Audible.dll
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\bin\Release\netcoreapp3.1\Madjestik.Audible.pdb
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\obj\Release\netcoreapp3.1\Madjestik.Audible.csproj.AssemblyReference.cache
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\obj\Release\netcoreapp3.1\Madjestik.Audible.Properties.Resources.resources
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\obj\Release\netcoreapp3.1\Madjestik.Audible.csproj.GenerateResource.cache
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\obj\Release\netcoreapp3.1\Madjestik.Audible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\obj\Release\netcoreapp3.1\Madjestik.Audible.AssemblyInfoInputs.cache
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\obj\Release\netcoreapp3.1\Madjestik.Audible.AssemblyInfo.cs
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\obj\Release\netcoreapp3.1\Madjestik.Audible.csproj.CoreCompileInputs.cache
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\obj\Release\netcoreapp3.1\Madjestik.Audible.dll
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\obj\Release\netcoreapp3.1\Madjestik.Audible.pdb
+C:\Users\jlevesque\source\repos\Madjestik.Audible\Madjestik.Audible\obj\Release\netcoreapp3.1\Madjestik.Audible.genruntimeconfig.cache

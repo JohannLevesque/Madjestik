@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Madjestik.Audio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Madjestik.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Madjestik.Audio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Madjestik.Audio.dll": {}
+        }
+      },
+      "Madjestik.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Madjestik.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Madjestik.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Madjestik.Audio/1.0.0": {
+      "type": "project",
+      "path": "../Madjestik.Audio/Madjestik.Audio.csproj",
+      "msbuildProject": "../Madjestik.Audio/Madjestik.Audio.csproj"
+    },
+    "Madjestik.Core/1.0.0": {
+      "type": "project",
+      "path": "../Madjestik.Core/Madjestik.Core.csproj",
+      "msbuildProject": "../Madjestik.Core/Madjestik.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Madjestik.Audio >= 1.0.0",
+      "Madjestik.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jlevesque\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Dev\\Perso\\Madjestik\\Madjestik.Audible\\Madjestik.Audible.csproj",
+      "projectName": "Madjestik.Audible",
+      "projectPath": "C:\\Dev\\Perso\\Madjestik\\Madjestik.Audible\\Madjestik.Audible.csproj",
+      "packagesPath": "C:\\Users\\jlevesque\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Perso\\Madjestik\\Madjestik.Audible\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jlevesque\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.internal.minerva-plm.com/nuget": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Dev\\Perso\\Madjestik\\Madjestik.Audio\\Madjestik.Audio.csproj": {
+              "projectPath": "C:\\Dev\\Perso\\Madjestik\\Madjestik.Audio\\Madjestik.Audio.csproj"
+            },
+            "C:\\Dev\\Perso\\Madjestik\\Madjestik.Core\\Madjestik.Core.csproj": {
+              "projectPath": "C:\\Dev\\Perso\\Madjestik\\Madjestik.Core\\Madjestik.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

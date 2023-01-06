@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Madjestik.Audible/1.0.0": {
+        "dependencies": {
+          "Madjestik.Audio": "1.0.0",
+          "Madjestik.Core": "1.0.0"
+        },
+        "runtime": {
+          "Madjestik.Audible.dll": {}
+        }
+      },
+      "Madjestik.Audio/1.0.0": {
+        "dependencies": {
+          "Madjestik.Core": "1.0.0"
+        },
+        "runtime": {
+          "Madjestik.Audio.dll": {}
+        }
+      },
+      "Madjestik.Core/1.0.0": {
+        "runtime": {
+          "Madjestik.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Madjestik.Audible/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Madjestik.Audio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Madjestik.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

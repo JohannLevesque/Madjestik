@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Madjestik.Audible": {
+      "commandName": "Project",
+      "commandLineArgs": "/d"
+    }
+  }
+}
